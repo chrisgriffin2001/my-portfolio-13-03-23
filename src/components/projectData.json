@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Project 1",
+      "description": "This is my first project.",
+      "deployedUrl": "https://www.example.com/project-1",
+      "githubUrl": "https://github.com/username/project-1",
+      "image": "project-1.png"
+    },
+    {
+      "id": 2,
+      "title": "Project 2",
+      "description": "This is my second project.",
+      "deployedUrl": "https://www.example.com/project-2",
+      "githubUrl": "https://github.com/username/project-2",
+      "image": "project-2.png"
+    },
+    {
+      "id": 3,
+      "title": "Project 3",
+      "description": "This is my third project.",
+      "deployedUrl": "https://www.example.com/project-3",
+      "githubUrl": "https://github.com/username/project-3",
+      "image": "project-3.png"
+    }
+  ]
+  
